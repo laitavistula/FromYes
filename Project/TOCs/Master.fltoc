@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Introduction Topics/Introduction.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Introduction Topics/How to use this guide.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Introduction Topics/Disclaimer on inclusivity.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/B_Feature Topics/First steps.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Feature Topics/Setting the budget.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Feature Topics/Choosing the date.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Feature Topics/Choosing the venue.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/C_Procedure Topics/Legal requirements.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Procedure Topics/Civil ceremony requirements.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Procedure Topics/Church wedding requirements.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Procedure Topics/Ecumenical weddings.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Procedure Topics/Outdoor weddings.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Procedure Topics/Humanist weddings.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/D_International Marriages/International marriages.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_International Marriages/Process timeline.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_International Marriages/Common pitfalls.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_International Marriages/Document authentication.htm"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Planning essentials"
+    Link="/Content/E_Planning Essentials/Planning essentials.htm">
+    <TocEntry
+      Title="Planning essentials"
+      Link="/Content/E_Planning Essentials/Planning essentials.htm"></TocEntry>
+    <TocEntry
+      Title="Wedding traditions in Poland"
+      Link="/Content/E_Planning Essentials/Traditions.htm"></TocEntry>
+    <TocEntry
+      Title="The wedding day"
+      Link="/Content/E_Planning Essentials/The wedding day.htm" />
+    <TocEntry
+      Title="Post wedding formalities"
+      Link="/Content/E_Planning Essentials/Post wedding formalities.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="SOS Quick Solutions"
+    Link="/Content/F_SOS Quick Solutions/Troubleshooting Guide.htm">
+    <TocEntry
+      Title="Troubleshooting Guide"
+      Link="/Content/F_SOS Quick Solutions/Troubleshooting Guide.htm" />
+  </TocEntry>
+</CatapultToc>
