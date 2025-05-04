@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="\\mac\Home\Desktop\Del Mar\Docs"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="scm"
+  ProviderType="Git"
+  Database="file://mac/Home/Desktop/Del Mar/.git/"
+  DatabaseRoot="file://mac/Home/Desktop/Del Mar/Docs"
+  PushToRemote="true"></CatapultDestination>
