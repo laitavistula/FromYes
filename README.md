@@ -1,7 +1,7 @@
 #   From 'Yes' to wesele: a guide for international couples marrying in Poland
 
-"From 'Yes' to wesele" is a comprehensive, non-commercial guide designed to assist foreign nationals navigating the process of getting married in Poland. This technical writing project aims to bring clarity to the requirements, paperwork, and essential tasks involved in planning a wedding in Poland, specifically for individuals from outside the country.
+“From 'Yes' to Wesele" is a comprehensive, non-commercial guide designed to assist foreign nationals marrying in Poland. It aims to clarify the necessary procedures, paperwork, and tasks, offering insights into Polish wedding venues and customs, practical tips on logistics, and ultimately providing international couples with a valuable resource for planning their special day. 
 
-This guide documents the necessary procedures, provides insights into Polish wedding venues and customs, offers practical tips on handling paperwork and logistics, and touches upon considerations like weather. Created using MadCap Flare, "From 'Yes' to wesele" is a valuable resource for international couples seeking to celebrate their special day in Poland with ease and confidence.
+This project showcases that the principles of technical communication can be applied to a broad spectrum of topics, extending well beyond traditionally "technical" subjects. While technical writing is usually associated with documenting software or machinery, this guide demonstrates its value in clarifying complex processes in other areas of life.
 
 
