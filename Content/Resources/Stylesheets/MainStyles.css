@@ -72,6 +72,30 @@ p
 	padding: 0;
 }
 
+	p.noteAlt
+{
+     background-color: #fefec6;
+     background-image: url(../Images/css-box-icon-3.png);
+     background-position: 9px 0px;
+     background-repeat: no-repeat;
+     border-left: solid 4px #3498db;
+     line-height: 18px;
+     overflow: hidden;
+     padding: 15px 60px;
+}
+
+	p.tipAlt
+{
+     background-color: #c8e2f0;
+     background-image: url(../Images/css-box-icon-1.avif);
+     background-position: 9px 0px;
+     background-repeat: no-repeat;
+     border-left: solid 4px #3498db;
+     line-height: 18px;
+     overflow: hidden;
+     padding: 15px 60px;
+}
+
 /*hero section*/
 
 div.topic-hero	/*This is the Hero/Banner on the topics Page - To replace the banner image with your own, change background-image property*/
@@ -289,14 +313,3 @@ Styles after this point are styles that are for specific mediums. If any additio
 	}
 }
 
-	p.noteAlt
-{
-     background-color: #f0f7fb;
-     background-image: url(../Images/icons/Pencil-48.png);
-     background-position: 9px 0px;
-     background-repeat: no-repeat;
-     border-left: solid 4px #3498db;
-     line-height: 18px;
-     overflow: hidden;
-     padding: 15px 60px;
-}
