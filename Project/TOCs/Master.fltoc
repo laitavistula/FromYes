@@ -23,6 +23,12 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/B_Feature Topics/Choosing the venue.htm" />
+    <TocEntry
+      Title="Invitations"
+      Link="/Content/B_Feature Topics/Invitations.htm" />
+    <TocEntry
+      Title="Witnesses"
+      Link="/Content/B_Feature Topics/Intro-Witnesses.htm" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
@@ -34,6 +40,9 @@
       Title="[%=System.LinkedTitle%]"
       Link="/Content/C_Procedure Topics/Church wedding requirements.htm" />
     <TocEntry
+      Title="Concordat wedding requirements"
+      Link="/Content/C_Procedure Topics/Concordat wedding requirements.htm" />
+    <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/C_Procedure Topics/Ecumenical weddings.htm" />
     <TocEntry
@@ -42,6 +51,12 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/C_Procedure Topics/Humanist weddings.htm" />
+    <TocEntry
+      Title="Witnesses"
+      Link="/Content/C_Procedure Topics/Witnesses.htm"></TocEntry>
+    <TocEntry
+      Title="Rings"
+      Link="/Content/C_Procedure Topics/Rings.htm" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
