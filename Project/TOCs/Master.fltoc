@@ -44,13 +44,13 @@
       Link="/Content/C_Procedure Topics/Concordat wedding requirements.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Procedure Topics/Ecumenical weddings.htm" />
+      Link="/Content/C_Procedure Topics/Ecumenical wedding.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Procedure Topics/Outdoor weddings.htm" />
+      Link="/Content/C_Procedure Topics/Outdoor wedding.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Procedure Topics/Humanist weddings.htm" />
+      Link="/Content/C_Procedure Topics/Humanist wedding.htm" />
     <TocEntry
       Title="Witnesses"
       Link="/Content/C_Procedure Topics/Witnesses.htm"></TocEntry>
