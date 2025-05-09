@@ -70,6 +70,9 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/D_International Marriages/Document authentication.htm"></TocEntry>
+    <TocEntry
+      Title="Last name decisions"
+      Link="/Content/D_International Marriages/Last name decisions.htm" />
   </TocEntry>
   <TocEntry
     Title="Planning essentials"

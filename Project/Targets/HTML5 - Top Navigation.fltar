@@ -22,7 +22,8 @@
     CollapseMargins="true"
     GenerateTOCProxy="true"
     GenerateIndexProxy="true"
-    GenerateGlossaryProxy="true" />
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
   <Destinations>
     <Destination
       Link="/Project/Destinations/git.fldes"
