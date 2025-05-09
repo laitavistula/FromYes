@@ -16,7 +16,7 @@
   MasterStylesheetOverride="true"
   MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
   DisableAutoSync="true"
-  GetLatestBeforeCompile="false"
+  GetLatestBeforeCompile="true"
   OutputFile="index.html">
   <PrintedOutput
     CollapseMargins="true"
