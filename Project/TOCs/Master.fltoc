@@ -95,15 +95,8 @@
   </TocEntry>
   <TocEntry
     Title="SOS Quick Solutions"
-    Link="/Content/F_SOS Quick Solutions/SOS quick solutions.htm">
-    <TocEntry
-      Title="Troubleshooting Guide"
-      Link="/Content/F_SOS Quick Solutions/SOS quick solutions.htm" />
-  </TocEntry>
+    Link="/Content/F_SOS Quick Solutions/SOS Quick Solutions.htm"></TocEntry>
   <TocEntry
     Title="Documents and forms"
-    Link="/Content/G_Documents and Forms/Documents and forms.htm">
-    <TocEntry
-      Title="New Entry" />
-  </TocEntry>
+    Link="/Content/G_Documents and Forms/Documents and forms.htm"></TocEntry>
 </CatapultToc>
