@@ -430,17 +430,22 @@
 	opacity: 0;
 }
 
+.micro-response1902096896 .dropDown
+{
+	color: #000000;
+}
+
 .micro-response1902096896 .dropDownHotspot
 {
-	color: #ff6b31;
 	font-weight: bold;
+	color: #6b1c4e;
 	text-decoration: none;
 }
 
 .micro-response1902096896 .dropDownHotspot:link
 {
-	color: #ff6b31;
 	font-weight: bold;
+	color: #6b1c4e;
 	text-decoration: none;
 }
 
