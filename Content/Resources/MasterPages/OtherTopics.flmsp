@@ -17,25 +17,6 @@
                     <MadCap:menuProxy style="mc-toc-depth: 3;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" data-mc-skin="/Project/Skins/SideMenu.flskn" />
                 </div>
             </div>
-            <div class="footer">
-                <table style="width: 100%;">
-                    <col />
-                    <col />
-                    <tbody>
-                        <tr>
-                            <td>
-                                <p class="footer">info@yourcompany.com</p>
-                                <p class="footer">858.123.4567</p>
-                                <p class="footer">1234 Lorem Ipsum Ave.</p>
-                                <p class="footer">La Jolla,&#160;CA 92037</p>
-                            </td>
-                            <td style="text-align: right;">
-                                <img src="../Images/Assets/PlaceholderLogo/PlaceholderLogo-orange.png" />
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
         </div>
     </body>
 </html>
