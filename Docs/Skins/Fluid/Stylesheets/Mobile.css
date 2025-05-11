@@ -11,10 +11,10 @@
 
 	.title-bar-layout a.logo
 	{
-		width: 287px;
-		height: 70px;
-		background: transparent url('Images/logo-orange.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/logo-orange.png') no-repeat center center;
+		width: 220px;
+		height: 220px;
+		background: transparent url('Images/from yes to logo 220.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/from yes to logo 220.png') no-repeat center center;
 	}
 
 	.search-bar .search-submit
@@ -419,12 +419,12 @@
 
 	.title-bar-layout .logo-wrapper
 	{
-		min-height: 70px;
+		min-height: 220px;
 	}
 
 	.menu-icon-container
 	{
-		min-height: 70px;
+		min-height: 220px;
 	}
 
 	.off-canvas-wrapper-inner .main-section > .outer-row
