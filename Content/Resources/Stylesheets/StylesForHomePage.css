@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 /*===========================================================================================================================================================
 
@@ -62,8 +62,9 @@ p
 
 nav.title-bar
 {
-	position: absolute;
-	width: 100%;
+/*position: absolute; 
+	This change was suggested by Agata R.*/
+	width: 90%;
 }
 
 .off-canvas-content .main-section > .outer-row	/*removes the padding from the skin*/
@@ -79,8 +80,10 @@ div.topic-hero	/*This is the Hero/Banner on the Home Page - To replace the banne
 	background-repeat: no-repeat;
 	height: 800px;
 	padding-bottom: 150px;
-	padding-top: 150px;
-	margin-top: 100px;
+/* I am modifying these, below are the original values
+	padding-top: 100px;
+	margin-top: 100px;*/
+	padding-top: 20px; /* This line has been added */
 	background-position: center;
 	background-size: cover;
 	background-image: url('../Images/Assets/HeroImage/flowers-horizontal1.png');
@@ -193,7 +196,7 @@ div.home-tiles a	/*Complex Selector: Links within the home tiles will have the f
 
 div.home-tiles a:hover	/*Complex Selector: When hovering over links within the home tiles the following properties will apply.*/
 {
-	color: #ff8c00;
+	color: #6b1c4e;
 }
 
 /*==Home Page Footer==*/
@@ -366,4 +369,3 @@ Styles after this point are styles that are for specific mediums. If any additio
 		width: 100%;
 	}
 }
-

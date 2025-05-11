@@ -279,7 +279,8 @@
   </Stylesheet>
   <WebHelpOptions
     NavigationPanePosition="Right"
-    EnableSticky="None" />
+    EnableSticky="None"
+    TopMenuDepth="3" />
   <Strings>
     <Stylesheet
       lang="en-us">
