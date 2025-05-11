@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/Disclaimer on inclusivity.htm'],s:['1','receiv'],p:[['1',1],['ease',0],['official',4],['tradition',0]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/Disclaimer on inclusivity.htm'],s:['1','receiv'],p:[['1',1],['ease',0],['official',4],['tracking',7]]});
