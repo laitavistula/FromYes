@@ -99,4 +99,7 @@
   <TocEntry
     Title="Documents and forms"
     Link="/Content/G_Documents and Forms/Documents and forms.htm"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/H_About/About this project.htm" />
 </CatapultToc>
