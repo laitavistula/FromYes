@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 /*===========================================================================================================================================================
 
@@ -72,28 +72,28 @@ p
 	padding: 0;
 }
 
-	p.noteAlt
+p.noteAlt
 {
-     background-color: #fefec6;
-     background-image: url(../Images/css-box-icon-3.png);
-     background-position: 9px 0px;
-     background-repeat: no-repeat;
-     border-left: solid 4px #3498db;
-     line-height: 18px;
-     overflow: hidden;
-     padding: 15px 60px;
+	background-color: #fefec6;
+	background-image: url(../Images/css-box-icon-3.png);
+	background-position: 9px 0px;
+	background-repeat: no-repeat;
+	border-left: solid 4px #3498db;
+	line-height: 18px;
+	overflow: hidden;
+	padding: 15px 60px;
 }
 
-	p.tipAlt
+p.tipAlt
 {
-     background-color: #c8e2f0;
-     background-image: url(../Images/css-box-icon-1.avif);
-     background-position: 9px 0px;
-     background-repeat: no-repeat;
-     border-left: solid 4px #3498db;
-     line-height: 18px;
-     overflow: hidden;
-     padding: 15px 60px;
+	background-color: #c8e2f0;
+	background-image: url(../Images/css-box-icon-1.avif);
+	background-position: 9px 0px;
+	background-repeat: no-repeat;
+	border-left: solid 4px #3498db;
+	line-height: 18px;
+	overflow: hidden;
+	padding: 15px 60px;
 }
 
 /*hero section*/
@@ -104,8 +104,8 @@ div.topic-hero	/*This is the Hero/Banner on the topics Page - To replace the ban
 	padding-top: 20px;
 	height: 100%;
 	background-position: center;
-	background-image: url('../Images/Assets/HeroImage/image-business.jpg');
 	background-size: cover;
+	background-image: url('../Images/Assets/HeroImage/flowers-horizontal1.png');
 }
 
 /*==Mad Cap proxy/editor assigned styles==*/
@@ -268,6 +268,11 @@ p.footer
 	margin-bottom: 5px;
 	line-height: 13pt;
 	color: #808080;
+}
+
+div
+{
+	
 }
 
 /*===========================================================================================================================================================
