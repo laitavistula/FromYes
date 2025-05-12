@@ -222,6 +222,11 @@ p.footer
 	color: #808080;
 }
 
+a:hover
+{
+	
+}
+
 /*===========================================================================================================================================================
 Styles after this point are styles that are for specific mediums. If any additional styles are added to this template they will be listed after mediums.
 [@media tablet] declares styles that will apply when the screen is in tablet view

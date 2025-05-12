@@ -59,7 +59,7 @@
         Name="Search Input">
         <Properties>
           <Property
-            Name="Placeholder">Search our help and documentation</Property>
+            Name="Placeholder">Search our wedding help and documentation</Property>
         </Properties>
       </Style>
       <Style

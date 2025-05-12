@@ -830,8 +830,8 @@
 
 	.title-bar .menu-icon span
 	{
-		background: #ff6b31 url('Images/Menu.png') no-repeat center center;
-		-pie-background: #ff6b31 url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
+		background: #6b1c4e url('Images/Menu.png') no-repeat center center;
+		-pie-background: #6b1c4e url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
 	}
 
 	nav.title-bar .menu-icon

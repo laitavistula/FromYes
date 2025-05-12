@@ -94,8 +94,8 @@
 		height: 48px;
 		width: 48px;
 		display: block;
-		background: #ff6b31 url('Images/Menu.png') no-repeat center center;
-		-pie-background: #ff6b31 url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
+		background: #6b1c4e url('Images/Menu.png') no-repeat center center;
+		-pie-background: #6b1c4e url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
 	}
 
 	.search-bar .search-submit
@@ -162,7 +162,7 @@
 	{
 		font-size: 1em;
 		border-bottom: solid 1px #262626;
-		color: #ff6b31;
+		color: #6b1c4e;
 		line-height: 1;
 		background-color: transparent;
 	}

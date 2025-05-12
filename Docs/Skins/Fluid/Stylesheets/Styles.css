@@ -2097,13 +2097,13 @@ ul.navigation ul ul ul ul > li > a
 
 ul.navigation li > a:hover
 {
-	color: #ff6b31;
+	color: #6b1c4e;
 	font-weight: bold;
 }
 
 ul.navigation li.is-expanded > a
 {
-	color: #ff6b31;
+	color: #6b1c4e;
 	font-weight: bold;
 }
 

@@ -128,7 +128,7 @@
           <Property
             Name="FontWeight">bold</Property>
           <Property
-            Name="Color">#ff6b31</Property>
+            Name="Color">#6b1c4e</Property>
         </Properties>
         <Classes>
           <StyleClass
@@ -184,7 +184,7 @@
           Name="Navigation Slide Out Button">
           <Properties>
             <Property
-              Name="BackgroundColor">#ff6b31</Property>
+              Name="BackgroundColor">#6b1c4e</Property>
           </Properties>
         </Style>
         <Style
@@ -202,7 +202,7 @@
             <Property
               Name="BackgroundColor">transparent</Property>
             <Property
-              Name="Color">#ff6b31</Property>
+              Name="Color">#6b1c4e</Property>
           </Properties>
           <Classes>
             <StyleClass
@@ -273,6 +273,14 @@
           <Property
             Name="BackgroundRepeat">no-repeat</Property>
         </Properties>
+      </Style>
+      <Style
+        Name="Central Account Link">
+        <Properties></Properties>
+      </Style>
+      <Style
+        Name="Central Account Link (hover)">
+        <Properties></Properties>
       </Style>
     </Styles>
     <Stylesheet></Stylesheet>
