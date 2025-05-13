@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/Disclaimer on inclusivity.htm'],s:['1','procedur'],p:[['1',1],['dolor',36],['obtaining',10],['their',30]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/Disclaimer on inclusivity.htm'],s:['1','procedur'],p:[['1',1],['dolor',36],['obtaining',10],['then',36]]});
