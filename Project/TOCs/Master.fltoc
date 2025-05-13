@@ -3,17 +3,10 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/A_Introduction Topics/Introduction.htm">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Introduction Topics/How to use this guide.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Introduction Topics/Disclaimer on inclusivity.htm" />
-  </TocEntry>
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
     Link="/Content/B_Feature Topics/First steps.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Introduction Topics/Introduction.htm"></TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/B_Feature Topics/Setting the budget.htm" />
@@ -97,8 +90,15 @@
     Title="Documents and forms"
     Link="/Content/G_Documents and Forms/Documents and forms.htm"></TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/H_About/About this project.htm" />
+    Title="About"
+    Link="/Content/H_About/About this project.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Introduction Topics/How to use this guide.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Introduction Topics/Disclaimer on inclusivity.htm" />
+  </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/I_Resources/Resources.htm" />
