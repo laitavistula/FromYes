@@ -38,10 +38,10 @@
       Link="/Content/C_Procedure Topics/Civil ceremony requirements.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Procedure Topics/Church wedding requirements.htm" />
+      Link="/Content/C_Procedure Topics/Church wedding.htm" />
     <TocEntry
-      Title="Concordat wedding requirements"
-      Link="/Content/C_Procedure Topics/Concordat wedding requirements.htm" />
+      Title="Concordat wedding (ślub konkordatowy)"
+      Link="/Content/C_Procedure Topics/Concordat wedding.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/C_Procedure Topics/Ecumenical wedding.htm" />
