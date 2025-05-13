@@ -99,4 +99,7 @@
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/H_About/About this project.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/I_Resources/Resources.htm" />
 </CatapultToc>
