@@ -2,6 +2,16 @@
 <CatapultToc
   Version="1">
   <TocEntry
+    Title="About"
+    Link="/Content/H_About/About this project.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Introduction Topics/How to use this guide.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Introduction Topics/Disclaimer on inclusivity.htm" />
+  </TocEntry>
+  <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/B_Feature Topics/First steps.htm">
     <TocEntry
@@ -89,16 +99,6 @@
   <TocEntry
     Title="Documents and forms"
     Link="/Content/G_Documents and Forms/Documents and forms.htm"></TocEntry>
-  <TocEntry
-    Title="About"
-    Link="/Content/H_About/About this project.htm">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Introduction Topics/How to use this guide.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Introduction Topics/Disclaimer on inclusivity.htm" />
-  </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/I_Resources/Resources.htm" />
